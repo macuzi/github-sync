@@ -115,7 +115,7 @@
             "in": "query",
             "description": "Status values that need to be considered for filter",
             "required": true,
-            "explode": false,
+            "explode": true,
             "schema": {
               "type": "array",
               "items": {
