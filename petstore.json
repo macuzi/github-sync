@@ -14,7 +14,7 @@
     }
   },
   "externalDocs": {
-    "description": "Find out more about Swagger",
+    "description": "Find out more about owlbert",
     "url": "http://swagger.io"
   },
   "servers": [
